@@ -70,7 +70,7 @@ This is a list of some wonderful open-source projects & applications integrated 
 * [OpenAttack](https://github.com/thunlp/OpenAttack) (from THU) - An open-source textual adversarial attack toolkit.
 
 ## 🔒 AI Security Tools
-* [Veritensor](https://github.com/ArseniiBrazhnyk/Veritensor) - Zero-trust security scanner for AI models. Verifies integrity against the Hub API, detects malware in Pickle/PyTorch files, and checks license compliance.
+* [Veritensor](https://github.com/arsbr/Veritensor) - Security scanner for Hugging Face artifacts. Verifies model hash integrity against the Hub API and detects malware in Pickle/PyTorch files and Parquet datasets.
 
 ## 🔁 Style Transfer
 *Transfer the style of text! Now you know why it's called transformer?*
